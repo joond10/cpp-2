@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="arrayOfFuncPtr.cpp" />
     <ClCompile Include="functionTheory.cpp" />
+    <ClCompile Include="functorsIntro.cpp" />
     <ClCompile Include="introToFunctPtrSyntax.cpp" />
     <ClCompile Include="validationExampleForFuncPtr.cpp" />
   </ItemGroup>
